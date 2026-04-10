@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Samuil 👋
 
-<!--
-**General-Kaolin/General-Kaolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Trainee Python Developer | Tech Enthusiast | Video Editor
 
-Here are some ideas to get you started:
+I am a highly disciplined individual with a background in music and volunteering, currently transitioning into IT through an intensive program at **Mate Academy**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **Python Core (Generators, Iterators, OOP)**
+- 🌱 I’m currently learning: **FastAPI & PostgreSQL**
+- ⚡ Tech Background: PC Assembly & Configuration, Sound Engineering, Video Editing
+- 📍 Location: Warsaw, Poland
+
+---
+
+### Tech Stack
+- **Languages:** Python (Basics/Core), JavaScript (Basics)
+- **Tools:** Git, Terminal, VS Code, DaVinci Resolve, PyCharm, AI
+- **Soft Skills:** Teamwork, Problem-solving under pressure (Volunteering background)
+
+---
+
+### Let's connect!
+[LinkedIn](coming soon) | [Email](mailto:tartichniysamuil@gmail.com)
