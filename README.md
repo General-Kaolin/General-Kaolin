@@ -19,4 +19,4 @@ I am a highly disciplined individual with a background in music and volunteering
 ---
 
 ### Let's connect!
-[LinkedIn](coming soon) | [Email](mailto:tartichniysamuil@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/sam-t-335225392/)) | [Email](mailto:tartichniysamuil@gmail.com)
